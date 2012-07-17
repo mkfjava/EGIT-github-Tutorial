@@ -3,7 +3,7 @@ package tut;
 public class Dogs {
 	
 	public Dogs() {
-		System.out.println();
+		System.out.println("Dogz constructor !");
 	}
 	
 	void bark () {
