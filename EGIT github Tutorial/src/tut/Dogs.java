@@ -6,4 +6,8 @@ public class Dogs {
 		
 	}
 	
+	void bark () {
+		
+	}
+	
 }
