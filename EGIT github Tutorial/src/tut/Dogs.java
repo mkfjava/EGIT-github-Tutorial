@@ -7,7 +7,7 @@ public class Dogs {
 	}
 	
 	void bark () {
-		
+		System.out.println("Update2");
 	}
 	
 }
